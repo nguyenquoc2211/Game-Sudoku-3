@@ -19,7 +19,13 @@ namespace Sudokuu
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-fsdsf
+fsdsfdsgdfhdfjghjfg
+                dfgsdrysdh
+                sfh
+                fj
+                gfj
+                fj
+                jfghdfh
         }
         
     }
