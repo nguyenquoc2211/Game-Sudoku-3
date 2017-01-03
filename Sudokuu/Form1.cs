@@ -19,14 +19,12 @@ namespace Sudokuu
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-fsdsfdsgdfhdfjghjfg
-                dfgsdrysdh
-                sfh
-                fj
-                gfj
-                fj
-                jfghdfh
+
         }
-        
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
