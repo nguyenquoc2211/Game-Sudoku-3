@@ -44,7 +44,7 @@ namespace Sudokuu
             timer1.Enabled = true;
         }
 
-
+        sdfsdf
 
         // timer EventHandler
         private void timer1_Tick(object sender, EventArgs e)
